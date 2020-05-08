@@ -24,8 +24,8 @@
 }
 
 .center {
-  border-left: 1px solid rgb(117, 53, 53);
-  border-right: 1px solid rgb(117, 53, 53);
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
 }
 
 #board {
