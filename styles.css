@@ -8,12 +8,6 @@
   clear: both;
   margin: auto;
   width: 302px;
-}
-
-.top:hover,
-.middle:hover,
-.bottom:hover,
-.center:hover {
   cursor: pointer;
 }
 
