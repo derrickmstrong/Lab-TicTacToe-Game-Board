@@ -12,7 +12,8 @@
 
 .top:hover,
 .middle:hover,
-.bottom:hover {
+.bottom:hover,
+.center:hover {
   cursor: pointer;
 }
 
