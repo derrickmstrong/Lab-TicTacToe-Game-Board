@@ -24,9 +24,12 @@
   border-top: 1px solid #000;
 }
 
-.center {
-  border-left: 1px solid #000;
+.left {
   border-right: 1px solid #000;
+}
+
+.right {
+  border-left: 1px solid #000;
 }
 
 #board {
