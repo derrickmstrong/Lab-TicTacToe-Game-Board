@@ -10,7 +10,9 @@
   width: 302px;
 }
 
-.top:hover, .middle:hover, .bottom:hover {
+.top:hover,
+.middle:hover,
+.bottom:hover {
   cursor: pointer;
 }
 
@@ -30,5 +32,4 @@
 #board {
   padding-top: 3em;
   text-align: center;
-  margin: auto;
 }
