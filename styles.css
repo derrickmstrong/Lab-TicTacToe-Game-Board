@@ -2,13 +2,13 @@
   float: left;
   width: 100px;
   height: 100px;
+  cursor: pointer;
 }
 
 .row {
   clear: both;
   margin: auto;
   width: 302px;
-  cursor: pointer;
 }
 
 .top {
